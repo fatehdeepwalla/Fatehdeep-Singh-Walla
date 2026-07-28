@@ -1,7 +1,7 @@
 # Fatehdeep-Singh-Walla
 Software Engineer | Former Scientist @ ISRO | AIR 707 @ GATE Computer Science | B.Tech Mechanical Engineering @ IIT Delhi
 
-Welcome to my personal repository. It contains my academic credentials, professional experience, certifications, projects, and learning journey in Computer Science and Software Development.
+A personal portfolio showcasing my academic credentials, professional experience, certifications, projects, and learning journey in Computer Science and Software Development.
 
 ---
 ## 📄 Resume
