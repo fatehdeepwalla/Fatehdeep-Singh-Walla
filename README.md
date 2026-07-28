@@ -59,7 +59,7 @@ A personal portfolio showcasing my academic credentials, professional experience
 - [Projects.pdf](Projects.pdf)
 
 ---
-## 💻 Relevant Knowledge & Skills
+## 🛠️ Relevant Knowledge & Skills
 - Computer Science Fundamentals
   - Discrete Mathematics | Theory of Computation
   - Digital Logic | Computer Organization & Architecture
