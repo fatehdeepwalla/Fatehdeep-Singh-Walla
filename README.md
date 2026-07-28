@@ -1,49 +1,54 @@
 # Fatehdeep-Singh-Walla
+Software Engineer | Former Scientist @ ISRO | AIR 707 @ GATE Computer Science | B.Tech Mechanical Engineering @ IIT Delhi
 
-Welcome to my personal repository. This repository serves as a central place to showcase my professional background, technical learning, projects, achievements, certifications, and continuous journey in Computer Science and Software Development.
+Welcome to my personal repository. It contains my academic credentials, professional experience, certifications, projects, and learning journey in Computer Science and Software Development.
 
 ---
+## 📄 Resume
+- Latest professional resume
+- [Resume.pdf](Resume.pdf)
 
-## 📂 Repository Contents
+---
+## 🎓 Education
+- **Class XII Marksheet**
+  - PCM Aggregate: **95.6%**
+  - [12th Marksheet.pdf](12th marksheet.pdf)
 
-- **Resume**
-  - Latest professional resume
-  - [Resume.pdf](Resume.pdf)
+- **IIT Delhi**
+  - B.Tech in Mechanical Engineering
+  - CGPA: **8.25/10**
+  - [Degree.pdf](Degree btech IIT.pdf)
+  - [Grade Report.pdf](IITD Grade Report.pdf)
 
-- **12th MarkSheet**
-  - PCM aggregate 95.6 %
-  - [12th marksheet.pdf](12th marksheet.pdf)
- 
-- **IIT Delhi Degree**
-  - CGPA: 8.25/10
-  - [Degree btech IIT.pdf](Degree btech IIT.pdf)
-  - [IITD Grade Report.pdf](IITD Grade Report.pdf)
- 
-- **GATE Scorecard**
-  - GATE 2026 | Computer Science & Information Technology (CS)
-  - All India Rank (AIR): 707 among 211,020 candidates
-  - [Gate_2026_ScoreCard.pdf](Gate_2026_ScoreCard.pdf)
-    
-- **ISRO Experience Certificate**
-  - Professional experience and service certificate
-  - [Order of appointment.pdf](Order of appointment.pdf)
-  - [Promotion letter.pdf](Promotion letter.pdf)
+- **GATE 2026**
+  - Computer Science & Information Technology (CS)
+  - All India Rank (AIR): **707** among **211,020** candidates
+  - [GATE Scorecard.pdf](Gate_2026_ScoreCard.pdf)
+
+---
+## 💼 Work Experience
+
+- **Indian Space Research Organisation (ISRO)**
+  - Appointment, promotion, and service documents
+  - [Order of Appointment.pdf](Order of appointment.pdf)
+  - [Promotion Letter.pdf](Promotion letter.pdf)
   - [Service Certificate.pdf](Service Certificate.pdf)
 
-- **Professional Certifications**
-  - University and industry certifications
-  - `Certifications/`
-
-- **Books**
-  - Books that contributed to my self-learning Computer science journey
-  - [Books.pdf](Books.pdf)
-
-
-- **Projects**
-  - Software development projects
-  - [Projects.pdf](Projects.pdf)
 ---
+## 💻 Projects
+- Software development projects
+- [Projects.pdf](Projects.pdf)
 
+---
+## 📜 Professional Certifications
+- University and industry certifications
+- [Certifications](Certifications/)
+
+---
+## 📚 Books
+- Books that contributed to my self-learning journey in Computer Science
+- [Books.pdf](Books.pdf)
+
+---
 ## 📬 Connect
-
 - LinkedIn: https://www.linkedin.com/in/fatehdeep-singh-walla-947558394
