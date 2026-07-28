@@ -4,6 +4,17 @@ Software Engineer | Former Scientist @ ISRO | AIR 707 @ GATE Computer Science | 
 A personal portfolio showcasing my academic credentials, professional experience, certifications, projects, and learning journey in Computer Science and Software Development.
 
 ---
+## Contents
+- [📄 Resume](#-resume)
+- [🎓 Education](#-education)
+- [💼 Work Experience](#-work-experience)
+- [📚 Books](#-books)
+- [📜 Professional Certifications](#-professional-certifications)
+- [💻 Projects](#-projects)
+- [🛠️ Relevant Knowledge & Skills](#️-relevant-knowledge--skills)
+- [📬 Connect](#-connect)
+
+---
 ## 📄 Resume
 - Latest professional resume
 - [Resume](Resume.pdf)
@@ -27,6 +38,7 @@ A personal portfolio showcasing my academic credentials, professional experience
 ## 💼 Work Experience
 
 - **Scientist | Indian Space Research Organization (ISRO) | 2019–2025**
+  - Posted at Computational Fluid Dynamics Division (CFDD), Aero-Thermal Design and Synthesis Group (ADSG), Vikram Sarabhai Space Centre (VSSC), Indian Space Research Organisation (ISRO).   
   - Developed and maintained scientific software for high-performance numerical simulations.
   - Contributed to the development of PRAVAHA, an in-house Computational Fluid Dynamics solver.
   - Quantification of Aero and Thermal loads on Launch Vehicle during various phases of flight.
@@ -57,6 +69,30 @@ A personal portfolio showcasing my academic credentials, professional experience
 - Software development projects
 - [Projects.pdf](Projects.pdf)
 
+---
+## 🛠️ Relevant Knowledge & Skills
+- Computer Science Fundamentals
+  - Discrete Mathematics | Theory of Computation
+  - Digital Logic | Computer Organization & Architecture
+  - Data Structures & Algorithms
+  - Operating Systems | Computer Networks
+  - Databases | Compiler Design
+- Software Engineering
+  - C Programming | Systems Programming | Linux | CMake
+  - Java | Object-Oriented Programming | Maven
+  - JUnit | Mockito | Unit Testing | Integration Testing
+  - OOAD | Design Patterns
+  - SQL | JDBC | JPA (Jakarta Persistence)
+  - Concurrent, Parallel & Distributed Programming
+  - Version Control: Git & GitHub
+- Frontend Development
+    - HTML | CSS | JavaScript | React.js
+- Java Backend Development
+  - Spring Core (IoC Container & Dependency Injection) | Spring AOP
+  - Spring Boot | Spring MVC | REST API Development
+  - Thymeleaf | Postman | OpenFeign | RestTemplate | WebClient
+  - JdbcTemplate | Spring Data | Spring Transactions
+      
 ---
 ## 📬 Connect
 - LinkedIn: https://www.linkedin.com/in/fatehdeep-singh-walla-947558394
