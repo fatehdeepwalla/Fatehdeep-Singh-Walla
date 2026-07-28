@@ -4,6 +4,17 @@ Software Engineer | Former Scientist @ ISRO | AIR 707 @ GATE Computer Science | 
 A personal portfolio showcasing my academic credentials, professional experience, certifications, projects, and learning journey in Computer Science and Software Development.
 
 ---
+## Contents
+- [📄 Resume](#-resume)
+- [🎓 Education](#-education)
+- [💼 Work Experience](#-work-experience)
+- [📚 Books](#-books)
+- [📜 Professional Certifications](#-professional-certifications)
+- [💻 Projects](#-projects)
+- [🛠️ Relevant Knowledge & Skills](#️-relevant-knowledge--skills)
+- [📬 Connect](#-connect)
+
+---
 ## 📄 Resume
 - Latest professional resume
 - [Resume](Resume.pdf)
