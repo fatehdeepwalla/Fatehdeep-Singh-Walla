@@ -23,31 +23,21 @@ A personal portfolio showcasing my academic credentials, professional experience
 ## 🎓 Education
 - **Class XII Marksheet**
   - PCM Aggregate: **95.6%**
-  - [12th Marksheet](Education/12th%20marksheet.pdf)
 
 - **B. Tech in Mechanical Engineering | IIT Delhi | 2015–2019**
   - CGPA: **8.25/10**
-  - [Degree](Education/Degree%20btech%20IIT.pdf)
-  - [Consolidated Grade Report](Education/IITD%20Grade%20Report.PDF)
 
 - **GATE 2026 | Computer Science & Information Technology (CS)**
   - All India Rank (AIR): **707** among **211,020** candidates
-  - [GATE Scorecard](Education/Gate_2026_ScoreCard.pdf)
 
 ---
 ## 💼 Work Experience
 
-- **Scientist | Indian Space Research Organization (ISRO) | 2019–2025**
-  - Posted at Computational Fluid Dynamics Division (CFDD), Aero-Thermal Design and Synthesis Group (ADSG), Vikram Sarabhai Space Centre (VSSC), Indian Space Research Organisation (ISRO).   
+- **Scientist | Indian Space Research Organization (ISRO) | 2019–2025**  
   - Developed and maintained scientific software for high-performance numerical simulations.
   - Contributed to the development of PRAVAHA, an in-house Computational Fluid Dynamics solver.
   - Quantification of Aero and Thermal loads on Launch Vehicle during various phases of flight.
   - Design and performance evaluation through CFD simulations and wind tunnel data.
-  - [Order of Appointment](ISRO/Order%20of%20appointment.pdf)
-  - [Probation Closure](ISRO/Probation%20Closure.pdf)
-  - [Promotion Letter](ISRO/Promotion%20letter.pdf)
-  - [Service Certificate](ISRO/Service%20Certificate.pdf)
-  - [Relieving Order](ISRO/Relieving%20Order.pdf)
 
 ---
 ## 📚 Books
