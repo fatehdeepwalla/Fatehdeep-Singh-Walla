@@ -15,7 +15,6 @@ A personal portfolio showcasing my academic credentials, professional experience
   - [12th Marksheet](Education/12th%20marksheet.pdf)
 
 - **B. Tech in Mechanical Engineering | IIT Delhi | 2015–2019**
-  - B.Tech in Mechanical Engineering
   - CGPA: **8.25/10**
   - [Degree](Education/Degree%20btech%20IIT.pdf)
   - [Consolidated Grade Report](Education/IITD%20Grade%20Report.PDF)
