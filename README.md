@@ -27,6 +27,7 @@ A personal portfolio showcasing my academic credentials, professional experience
 ## 💼 Work Experience
 
 - **Scientist | Indian Space Research Organization (ISRO) | 2019–2025**
+  - Posted at Computational Fluid Dynamics Division (CFDD), Aero-Thermal Design and Synthesis Group (ADSG), Vikram Sarabhai Space Centre(VSSC), Indian Space Research Organisation (ISRO).   
   - Developed and maintained scientific software for high-performance numerical simulations.
   - Contributed to the development of PRAVAHA, an in-house Computational Fluid Dynamics solver.
   - Quantification of Aero and Thermal loads on Launch Vehicle during various phases of flight.
