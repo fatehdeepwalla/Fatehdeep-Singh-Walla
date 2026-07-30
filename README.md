@@ -47,11 +47,15 @@ A personal portfolio showcasing my academic credentials, professional experience
 ---
 ## 🛠️ Relevant Knowledge & Skills
 - Computer Science Fundamentals
-  - Discrete Mathematics | Theory of Computation
-  - Digital Logic | Computer Organization & Architecture
+  - Discrete Mathematics
+  - Theory of Computation
+  - Digital Logic
+  - Computer Organization & Architecture
   - Data Structures & Algorithms
-  - Operating Systems | Computer Networks
-  - Databases | Compiler Design
+  - Operating Systems
+  - Computer Networks
+  - Databases
+  - Compiler Design
 - Software Engineering
   - C Programming | Systems Programming | Linux | CMake
   - Java | Object-Oriented Programming | Maven
