@@ -9,9 +9,9 @@ A personal portfolio showcasing my academic credentials, professional experience
 - [🎓 Education](#-education)
 - [💼 Work Experience](#-work-experience)
 - [📚 Books](#-books)
+- [🛠️ Relevant Knowledge & Skills](#️-relevant-knowledge--skills)
 - [📜 Professional Certifications](#-professional-certifications)
 - [💻 Projects](#-projects)
-- [🛠️ Relevant Knowledge & Skills](#️-relevant-knowledge--skills)
 - [📬 Connect](#-connect)
 
 ---
@@ -45,21 +45,6 @@ A personal portfolio showcasing my academic credentials, professional experience
 - [Books.pdf](Books.pdf)
 
 ---
-## 📜 Professional Certifications
-- Java Programming and Software Engineering Fundamentals Specialization
-  - Duke University
-  - [Certificate](Professional_Certifications/Coursera%207KCWW3JFK1S7.pdf)
-
-- Parallel, Concurrent, and Distributed Programming in Java Specialization
-  - Rice University
-  - [Certificate](Professional_Certifications/Coursera%20G1HQXI77DP5A.pdf)
-
----
-## 💻 Projects
-- Software development projects
-- [Projects.pdf](Projects.pdf)
-
----
 ## 🛠️ Relevant Knowledge & Skills
 - Computer Science Fundamentals
   - Discrete Mathematics | Theory of Computation
@@ -82,6 +67,21 @@ A personal portfolio showcasing my academic credentials, professional experience
   - Spring Boot | Spring MVC | REST API Development
   - Thymeleaf | Postman | OpenFeign | RestTemplate | WebClient
   - JdbcTemplate | Spring Data | Spring Transactions
+
+---
+## 📜 Professional Certifications
+- Java Programming and Software Engineering Fundamentals Specialization
+  - Duke University
+  - [Certificate](Professional_Certifications/Coursera%207KCWW3JFK1S7.pdf)
+
+- Parallel, Concurrent, and Distributed Programming in Java Specialization
+  - Rice University
+  - [Certificate](Professional_Certifications/Coursera%20G1HQXI77DP5A.pdf)
+
+---
+## 💻 Projects
+- Software development projects
+- [Projects.pdf](Projects.pdf)
       
 ---
 ## 📬 Connect
