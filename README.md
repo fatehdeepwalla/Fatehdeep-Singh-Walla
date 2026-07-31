@@ -21,7 +21,7 @@ A personal portfolio showcasing my academic credentials, professional experience
 
 ---
 ## 🎓 Education
-- **Class XII (CBSE)**
+- **Class XII | CBSE**
   - PCM Aggregate: **95.6%**
 
 - **B. Tech in Mechanical Engineering | IIT Delhi | 2015–2019**
