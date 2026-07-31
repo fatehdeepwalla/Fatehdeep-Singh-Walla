@@ -17,7 +17,7 @@ A personal portfolio showcasing my academic credentials, professional experience
 ---
 ## 📄 Resume
 - Latest professional resume
-- [Resume](Resume.pdf)
+- [⬇️ Resume.pdf](Resume.pdf)
 
 ---
 ## 🎓 Education
@@ -42,7 +42,7 @@ A personal portfolio showcasing my academic credentials, professional experience
 ---
 ## 📚 Books
 - Books that contributed to my self-learning journey in Computer Science.
-- [Books.pdf](Books.pdf)
+- [⬇️ Books.pdf](Books.pdf)
 
 ---
 ## 🛠️ Relevant Knowledge & Skills
@@ -76,17 +76,19 @@ A personal portfolio showcasing my academic credentials, professional experience
 ## 📜 Professional Certifications
 - Java Programming and Software Engineering Fundamentals Specialization
   - Duke University
-  - [Certificate](Professional_Certifications/Coursera%207KCWW3JFK1S7.pdf)
+  - [⬇️ Certificate](Professional_Certifications/Coursera%207KCWW3JFK1S7.pdf)
 
 - Parallel, Concurrent, and Distributed Programming in Java Specialization
   - Rice University
-  - [Certificate](Professional_Certifications/Coursera%20G1HQXI77DP5A.pdf)
+  - [⬇️ Certificate](Professional_Certifications/Coursera%20G1HQXI77DP5A.pdf)
 
 ---
 ## 💻 Projects
 - Software development projects
-- [Projects.pdf](Projects.pdf)
       
 ---
 ## 📬 Connect
+- Email: fatehdeepwalla@gmail.com
 - LinkedIn: https://www.linkedin.com/in/fatehdeep-singh-walla-947558394
+- Github: https://github.com/fatehdeepwalla
+
