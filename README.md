@@ -88,7 +88,9 @@ A personal portfolio showcasing my academic credentials, professional experience
       
 ---
 ## 📬 Connect
-- Email: fatehdeepwalla@gmail.com
+- Portfolio: https://github.com/fatehdeepwalla/Fatehdeep-Singh-Walla
 - LinkedIn: https://www.linkedin.com/in/fatehdeep-singh-walla-947558394
 - Github: https://github.com/fatehdeepwalla
+- Email: fatehdeepwalla@gmail.com
+- Phone no: (+91)-8505001690 
 
