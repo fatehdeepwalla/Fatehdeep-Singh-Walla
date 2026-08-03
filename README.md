@@ -65,7 +65,7 @@ A personal portfolio showcasing my academic credentials, professional experience
   - Concurrent, Parallel & Distributed Programming
   - Version Control: Git & GitHub
 - Frontend Development
-    - HTML | CSS | JavaScript | React.js
+    - HTML | CSS | JavaScript 
 - Java Backend Development
   - Spring Core (IoC Container & Dependency Injection) | Spring AOP
   - Spring Boot | Spring MVC | REST API Development
