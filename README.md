@@ -57,13 +57,13 @@ A personal portfolio showcasing my academic credentials, professional experience
   - Databases
   - Compiler Design
 - Software Engineering
-  - C Programming | Systems Programming | Linux | CMake
+  - C | Systems Programming | Linux | CMake
   - Java | Object-Oriented Programming | Maven
   - JUnit | Mockito | Unit Testing | Integration Testing
   - OOAD | Design Patterns
-  - SQL | JDBC | JPA (Jakarta Persistence)
+  - SQL | JDBC | JPA 
   - Concurrent, Parallel & Distributed Programming
-  - Version Control: Git & GitHub
+  - Git & GitHub
 - Frontend Development
     - HTML | CSS | JavaScript 
 - Java Backend Development
