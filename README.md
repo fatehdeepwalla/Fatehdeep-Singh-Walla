@@ -70,7 +70,7 @@ A personal portfolio showcasing my academic credentials, professional experience
 - Java Backend Development
   - Spring Core (IoC Container & Dependency Injection) | Spring AOP
   - Spring Boot | Spring MVC | REST API Development
-  - Thymeleaf | Postman | OpenFeign | RestTemplate | WebClient
+  - JSP | Thymeleaf | Postman | OpenFeign | RestTemplate | WebClient
   - JdbcTemplate | Spring Data | Spring Transactions
 
 ---
@@ -82,7 +82,7 @@ A personal portfolio showcasing my academic credentials, professional experience
 
 - Object-Oriented Analysis and Design Specialization
   - University of Colorado Boulder
-  - [⬇️ Certificate]()
+  - [⬇️ Certificate](Professional_Certifications/Coursera%20N9DZWM28T79U.pdf)
 
 - Parallel, Concurrent, and Distributed Programming in Java Specialization
   - Rice University
