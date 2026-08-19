@@ -96,6 +96,9 @@ A personal portfolio showcasing my academic credentials, professional experience
   - The Linux Foundation
   - [⬇️ Certificate](Professional_Certifications/Coursera%20D2T5RGRXQHV7.pdf)
 
+- IBM Java Developer Professional Certification 
+  - IBM
+  - [⬇️ Certificate](Professional_Certifications/Coursera%20CXVWKR74RKME.pdf)
 
 ---
 ## 💻 Projects
