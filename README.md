@@ -99,6 +99,10 @@ A personal portfolio showcasing my academic credentials, professional experience
 - IBM Java Developer Professional Certification 
   - IBM
   - [⬇️ Certificate](Professional_Certifications/Coursera%20CXVWKR74RKME.pdf)
+ 
+- Learn Spring Boot in 100 Steps - Beginner to Expert Specialization
+  - Packt
+  - [⬇️ Certificate](Professional_Certifications/Coursera%20UBJZWA2OEP02.pdf)
 
 ---
 ## 💻 Projects
