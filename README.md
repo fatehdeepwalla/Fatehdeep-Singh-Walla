@@ -77,6 +77,7 @@ A personal portfolio showcasing my academic credentials, professional experience
 ## 📜 Professional Certifications
 - Java Programming and Software Engineering Fundamentals Specialization
   - Duke University
+  - 🔗 [Link](https://github.com/fatehdeepwalla/Capstone-Project-Duke-University) for Final capstone project I submitted as a part of completion of the online specialization.
   - [⬇️ Certificate](Professional_Certifications/Coursera%207KCWW3JFK1S7.pdf)
 
 
@@ -86,10 +87,12 @@ A personal portfolio showcasing my academic credentials, professional experience
 
 - Parallel, Concurrent, and Distributed Programming in Java Specialization
   - Rice University
+  - 🔗 [Link](https://github.com/fatehdeepwalla/Parallel-Programming-Rice-University) for assignments I submitted as a part of completion of online Specialization.
   - [⬇️ Certificate](Professional_Certifications/Coursera%20G1HQXI77DP5A.pdf)
 
 - Data Structures and Algorithms Specialization
   - University of California San Diego
+  - 🔗 [Link](https://github.com/fatehdeepwalla/DSA-UC-San-Diego) for assignments I submitted as a part of completion of online Specialization.
   - [⬇️ Certificate]()
  
 - Open Source Software Development, Linux and Git Specialization
