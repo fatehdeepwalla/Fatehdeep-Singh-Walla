@@ -65,6 +65,7 @@ A personal portfolio showcasing my academic credentials, professional experience
   - SQL | JDBC | JPA 
   - Concurrent, Parallel & Distributed Programming
   - Git & GitHub
+  - Docker
 - Frontend Development
     - HTML | CSS | JavaScript 
 - Java Backend Development
