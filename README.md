@@ -67,7 +67,7 @@ A personal portfolio showcasing my academic credentials, professional experience
   - Git & GitHub
   - Docker
 - Frontend Development
-    - HTML | CSS | JavaScript 
+    - HTML | CSS | Bootstrap | JavaScript 
 - Java Backend Development
   - Spring Core (IoC Container & Dependency Injection) | Spring AOP
   - Spring Boot | Spring MVC | REST API Development
