@@ -90,11 +90,6 @@ A personal portfolio showcasing my academic credentials, professional experience
   - Rice University
   - Assignments I submitted as a part of completion of online Specialization 🔗 [Link](https://github.com/fatehdeepwalla/Parallel-Programming-Rice-University). 
   - [⬇️ Certificate](Professional_Certifications/Coursera%20G1HQXI77DP5A.pdf)
-
-- Data Structures and Algorithms Specialization
-  - University of California San Diego
-  - Assignments I submitted as a part of completion of online Specialization 🔗 [Link](https://github.com/fatehdeepwalla/DSA-UC-San-Diego).
-  - [⬇️ Certificate]()
  
 - Open Source Software Development, Linux and Git Specialization
   - The Linux Foundation
