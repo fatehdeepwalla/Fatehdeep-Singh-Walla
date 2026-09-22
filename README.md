@@ -81,16 +81,15 @@ A personal portfolio showcasing my academic credentials, professional experience
   - Final capstone project I submitted as a part of completion of the online specialization 🔗 [Link](https://github.com/fatehdeepwalla/Capstone-Project-Duke-University).
   - [⬇️ Certificate](Professional_Certifications/Coursera%207KCWW3JFK1S7.pdf)
 
+- Parallel, Concurrent, and Distributed Programming in Java Specialization
+  - Rice University
+  - Assignments I submitted as a part of completion of online Specialization 🔗 [Link](https://github.com/fatehdeepwalla/Parallel-Programming-Rice-University). 
+  - [⬇️ Certificate](Professional_Certifications/Coursera%20G1HQXI77DP5A.pdf)
 
 - Object-Oriented Analysis and Design Specialization
   - University of Colorado Boulder
   - [⬇️ Certificate](Professional_Certifications/Coursera%20N9DZWM28T79U.pdf)
 
-- Parallel, Concurrent, and Distributed Programming in Java Specialization
-  - Rice University
-  - Assignments I submitted as a part of completion of online Specialization 🔗 [Link](https://github.com/fatehdeepwalla/Parallel-Programming-Rice-University). 
-  - [⬇️ Certificate](Professional_Certifications/Coursera%20G1HQXI77DP5A.pdf)
- 
 - Open Source Software Development, Linux and Git Specialization
   - The Linux Foundation
   - [⬇️ Certificate](Professional_Certifications/Coursera%20D2T5RGRXQHV7.pdf)
