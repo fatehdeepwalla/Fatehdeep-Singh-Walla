@@ -78,12 +78,12 @@ A personal portfolio showcasing my academic credentials, professional experience
 ## 📜 Professional Certifications
 - Java Programming and Software Engineering Fundamentals Specialization
   - Duke University
-  - Final capstone project I submitted as a part of completion of the online specialization 🔗 [Link](https://github.com/fatehdeepwalla/Capstone-Project-Duke-University).
+  - Final capstone project I submitted as a part of completion of the online specialization |🔗 [Link](https://github.com/fatehdeepwalla/Capstone-Project-Duke-University).
   - [⬇️ Certificate](Professional_Certifications/Coursera%207KCWW3JFK1S7.pdf)
 
 - Parallel, Concurrent, and Distributed Programming in Java Specialization
   - Rice University
-  - Assignments I submitted as a part of completion of online Specialization 🔗 [Link](https://github.com/fatehdeepwalla/Parallel-Programming-Rice-University). 
+  - Assignments I submitted as a part of completion of online Specialization |🔗 [Link](https://github.com/fatehdeepwalla/Parallel-Programming-Rice-University). 
   - [⬇️ Certificate](Professional_Certifications/Coursera%20G1HQXI77DP5A.pdf)
 
 - Object-Oriented Analysis and Design Specialization
@@ -104,7 +104,7 @@ A personal portfolio showcasing my academic credentials, professional experience
 
 ---
 ## 💻 Projects
-- Todo Management Web Application 🔗 [Link](https://github.com/fatehdeepwalla/Todo-Management-Web-Application)
+- Todo Management Web Application |🔗 [Link](https://github.com/fatehdeepwalla/Todo-Management-Web-Application)
     - A secure full stack Todo management web application built with Spring Boot, Spring MVC, JSP, Spring Security, Spring Data JPA, H2.
     - The application features user authentication, Todo CRUD operations, form validation, and database persistence.
       
