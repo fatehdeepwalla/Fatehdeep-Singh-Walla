@@ -11,7 +11,7 @@ A personal portfolio showcasing my academic credentials, professional experience
 - [📚 Books & Learning Journey](#-books--learning-journey)
 - [🛠️ Relevant Knowledge & Skills](#️-relevant-knowledge--skills)
 - [📜 Professional Certifications](#-professional-certifications)
-- [💻 Projects](#-projects)
+- [💻 Projects & Coding Profile](#-projects--coding-profile)
 - [📬 Connect](#-connect)
 
 ---
@@ -103,10 +103,21 @@ A personal portfolio showcasing my academic credentials, professional experience
   - [⬇️ Certificate](Professional_Certifications/Coursera%20UBJZWA2OEP02.pdf)
 
 ---
-## 💻 Projects
+## 💻 Projects & Coding Profile
+- NeetCode | 🔗[NeetCode Profile](https://neetcode.io/user/VigilantHutt556) | 🔗[Submission Repository](https://github.com/fatehdeepwalla/neetcode-submissions)
+  - **NeetCode 150** | Famous Problem Set for DSA | 150 Problems
+  - Core Skills | Implemetation of DSA | 20 Problems
+  - Low Level Design | Design Patterns | 10 Problems
+- Blog Platform | 🔗[Link](https://github.com/fatehdeepwalla/Blog-Platform)
+  - A Spring Boot based REST API for creating, editing, organizing, publishing, and discovering blog posts.
+  - **Backend**: Spring Boot for handling application logic, exposing REST APIs, and managing database operations.
+  - **Database**:  PostgreSQL for persistent data storage and H2 for testing.
+  - **Security & Authentication**: Spring Security and JWT for user authentication.
+  - **Containerization**: Docker and Docker Compose are used to containerize application components and to simplify application setup.
+
 - Task Tracking Application | 🔗[Link](https://github.com/fatehdeepwalla/Task-Tracking-Application)
-    - A secure full stack task tracking web application built with Spring Boot, Spring MVC, JSP, Spring Security, Spring Data JPA, H2.
-    - The application features user authentication, CRUD Operations, form validation, and database persistence.
+  - A secure full stack task tracking web application built with Spring Boot, Spring MVC, JSP, Spring Security, Spring Data JPA, H2.
+  - The application features user authentication, CRUD Operations, form validation, and database persistence.
       
 ---
 ## 📬 Connect
