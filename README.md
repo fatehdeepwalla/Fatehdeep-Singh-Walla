@@ -106,7 +106,7 @@ A personal portfolio showcasing my academic credentials, professional experience
 ## 💻 Projects
 - Task Tracking Application | 🔗[Link](https://github.com/fatehdeepwalla/Task-Tracking-Application)
     - A secure full stack task tracking web application built with Spring Boot, Spring MVC, JSP, Spring Security, Spring Data JPA, H2.
-    - The application features user authentication, Todo CRUD operations, form validation, and database persistence.
+    - The application features user authentication, CRUD Operations, form validation, and database persistence.
       
 ---
 ## 📬 Connect
