@@ -10,8 +10,8 @@ A personal portfolio showcasing my academic credentials, professional experience
 - [💼 Work Experience](#-work-experience)
 - [📚 Books & Learning Journey](#-books--learning-journey)
 - [🛠️ Relevant Knowledge & Skills](#️-relevant-knowledge--skills)
-- [📜 Professional Certifications](#-professional-certifications)
 - [💻 Projects & Coding Profile](#-projects--coding-profile)
+- [📜 Professional Certifications](#-professional-certifications)
 - [📬 Connect](#-connect)
 
 ---
@@ -75,34 +75,6 @@ A personal portfolio showcasing my academic credentials, professional experience
   - JdbcTemplate | Spring Data | Spring Transactions
 
 ---
-## 📜 Professional Certifications
-- Java Programming and Software Engineering Fundamentals Specialization
-  - Duke University
-  - Final capstone project I submitted as a part of completion of the online specialization | 🔗[Link](https://github.com/fatehdeepwalla/Capstone-Project-Duke-University).
-  - [⬇️ Certificate](Professional_Certifications/Coursera%207KCWW3JFK1S7.pdf)
-
-- Parallel, Concurrent, and Distributed Programming in Java Specialization
-  - Rice University
-  - Assignments I submitted as a part of completion of online Specialization | 🔗[Link](https://github.com/fatehdeepwalla/Parallel-Programming-Rice-University). 
-  - [⬇️ Certificate](Professional_Certifications/Coursera%20G1HQXI77DP5A.pdf)
-
-- Object-Oriented Analysis and Design Specialization
-  - University of Colorado Boulder
-  - [⬇️ Certificate](Professional_Certifications/Coursera%20N9DZWM28T79U.pdf)
-
-- Open Source Software Development, Linux and Git Specialization
-  - The Linux Foundation
-  - [⬇️ Certificate](Professional_Certifications/Coursera%20D2T5RGRXQHV7.pdf)
-
-- IBM Java Developer Professional Certification 
-  - IBM
-  - [⬇️ Certificate](Professional_Certifications/Coursera%20CXVWKR74RKME.pdf)
- 
-- Learn Spring Boot in 100 Steps - Beginner to Expert Specialization
-  - Packt
-  - [⬇️ Certificate](Professional_Certifications/Coursera%20UBJZWA2OEP02.pdf)
-
----
 ## 💻 Projects & Coding Profile
 - NeetCode | 🔗[NeetCode Profile](https://neetcode.io/user/VigilantHutt556) | 🔗[Submission Repository](https://github.com/fatehdeepwalla/neetcode-submissions)
   - **NeetCode 150** | Famous Problem Set for DSA | 150 Problems
@@ -128,6 +100,37 @@ A personal portfolio showcasing my academic credentials, professional experience
 - Task Tracking Application | 🔗[Link](https://github.com/fatehdeepwalla/Task-Tracking-Application)
   - A secure full stack task tracking web application built with Spring Boot, Spring MVC, JSP, Spring Security, Spring Data JPA, H2.
   - The application features user authentication, CRUD Operations, form validation, and database persistence.
+ 
+- Movie Recommendation System | 🔗[Link](https://github.com/fatehdeepwalla/Capstone-Project-Duke-University)
+  - A Java-based movie recommendation system developed as the capstone project for Duke University's online **Java Programming and Software Engineering Fundamentals Specialization**.
+  - It applies object-oriented programming, CSV data processing, filtering, rating analysis, and similarity-based recommendation techniques to a movie recommendation problem.
+
+---
+## 📜 Professional Certifications
+- Java Programming and Software Engineering Fundamentals Specialization
+  - Duke University
+  - [⬇️ Certificate](Professional_Certifications/Coursera%207KCWW3JFK1S7.pdf)
+
+- Parallel, Concurrent, and Distributed Programming in Java Specialization
+  - Rice University
+  - Assignments I submitted as a part of completion of online Specialization | 🔗[Link](https://github.com/fatehdeepwalla/Parallel-Programming-Rice-University). 
+  - [⬇️ Certificate](Professional_Certifications/Coursera%20G1HQXI77DP5A.pdf)
+
+- Object-Oriented Analysis and Design Specialization
+  - University of Colorado Boulder
+  - [⬇️ Certificate](Professional_Certifications/Coursera%20N9DZWM28T79U.pdf)
+
+- Open Source Software Development, Linux and Git Specialization
+  - The Linux Foundation
+  - [⬇️ Certificate](Professional_Certifications/Coursera%20D2T5RGRXQHV7.pdf)
+
+- IBM Java Developer Professional Certification 
+  - IBM
+  - [⬇️ Certificate](Professional_Certifications/Coursera%20CXVWKR74RKME.pdf)
+ 
+- Learn Spring Boot in 100 Steps - Beginner to Expert Specialization
+  - Packt
+  - [⬇️ Certificate](Professional_Certifications/Coursera%20UBJZWA2OEP02.pdf)
       
 ---
 ## 📬 Connect
