@@ -72,7 +72,7 @@ A personal portfolio showcasing my academic credentials, professional experience
   - Spring Core (IoC Container & Dependency Injection) | Spring AOP
   - Spring Boot | Spring MVC | REST API Development
   - JSP | Thymeleaf | Postman | OpenFeign | RestTemplate | WebClient
-  - JdbcTemplate | Spring Data | Spring Transactions
+  - JdbcTemplate | Spring Data | Spring Transactions | Spring Security
 
 ---
 ## 💻 Projects & Coding Profile
