@@ -108,6 +108,16 @@ A personal portfolio showcasing my academic credentials, professional experience
   - **NeetCode 150** | Famous Problem Set for DSA | 150 Problems
   - Core Skills | Implemetation of DSA | 20 Problems
   - Low Level Design | Design Patterns | 10 Problems
+ 
+- Question Bank Application | 🔗[Link](https://github.com/fatehdeepwalla/Question-Bank-Application)
+  - I built this application to support my preparation for the **GATE Computer Science Examination**.
+  - It brings previous-year questions together in single, organized collection.
+  - Tag questions as **Solved**, **Repeated**, **Important**, or **Very Important**.
+  - Filter questions by **tags**, **year**, **subject**, or **topic** (kind of sub-topic within subject).
+  - Sort questions by **question ID** or **year**.
+  - Browse questions with pagination and edit their metadata.
+  - Store question metadata in JSON files for persistence.
+  
 - Blog Platform | 🔗[Link](https://github.com/fatehdeepwalla/Blog-Platform)
   - A Spring Boot based REST API for creating, editing, organizing, publishing, and discovering blog posts.
   - **Backend**: Spring Boot for handling application logic, exposing REST APIs, and managing database operations.
